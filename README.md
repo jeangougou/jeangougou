@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Jean</h1>
+<h3 align="center">DevOps Engineer | Software Developer | Consultant | Mentor</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/jeangeorges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=gray"/>
+</a>
+
+## Areas of Expertise
+- Cloud
+- Implementing DevOps principles
+- Development
+- Teaching & Mentoring
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeangougou&layout=compact&theme=gruvbox)
 
 ![](https://hit.yhype.me/github/profile?user_id=2731853)
 <!--
