@@ -12,7 +12,11 @@
 - Development
 - Teaching & Mentoring
 
-![Top Langs](https://github-readme-stats-mejk.vercel.app/api/top-langs/?username=jeangougou&layout=compact&theme=gruvbox)
+<details>
+  <summary>:zap GitHub Stats</summary>
+  <img align="left" alt="jeangougou's GitHub Stats" src="https://github-readme-stats-mejk.vercel.app/api/top-langs/?username=jeangougou&layout=compact&theme=gruvbox" />
+<details>
+<!-- ![Top Langs](https://github-readme-stats-mejk.vercel.app/api/top-langs/?username=jeangougou&layout=compact&theme=gruvbox) -->
 
 ![](https://hit.yhype.me/github/profile?user_id=2731853)
 <!--
