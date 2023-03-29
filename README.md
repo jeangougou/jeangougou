@@ -12,7 +12,7 @@
 - Development
 - Teaching & Mentoring
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeangougou&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats-mejk.vercel.app/api/top-langs/?username=jeangougou&layout=compact&theme=gruvbox)
 
 ![](https://hit.yhype.me/github/profile?user_id=2731853)
 <!--
