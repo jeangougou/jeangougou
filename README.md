@@ -11,6 +11,14 @@
 - Implementing DevOps principles
 - Development
 - Teaching & Mentoring
+  
+## Areas of Expertise
+
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
